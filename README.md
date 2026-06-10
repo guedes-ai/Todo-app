@@ -51,5 +51,5 @@ Rode o projeto:
 npm run dev
 ```
 
-Acesse em: http://localhost:5173
+Acesse em: [http://localhost:5173](http://localhost:5173/)
 
