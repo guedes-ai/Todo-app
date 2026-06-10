@@ -34,7 +34,7 @@ Projeto prático de front-end desenvolvido com React e Styled-Components.
 └── main.jsx
 ```
 
-## ⚙️ Como rodar
+## Como rodar
 
 Clone o repositório:
 ```bash
