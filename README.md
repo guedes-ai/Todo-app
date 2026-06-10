@@ -18,7 +18,7 @@ Projeto prático de front-end desenvolvido com React e Styled-Components.
 
 ## Estrutura de arquivos
 
-src/
+```src/
 ├── components/
 │   ├── Header.jsx
 │   ├── TarefaItem.jsx
@@ -32,6 +32,7 @@ src/
 │       └── Tarefa.styles.js
 ├── App.jsx
 └── main.jsx
+```
 
 ## ⚙️ Como rodar
 
